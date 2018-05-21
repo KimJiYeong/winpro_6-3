@@ -1,0 +1,16 @@
+﻿  소스.cpp
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(167): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(175): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(190): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(194): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(207): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(82): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(82): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(80): warning C4101: 'hButton' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(239): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(235): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(239): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(238): warning C4101: 'd_ps' :참조되지 않은 지역 변수입니다.
+c:\users\user\documents\visual studio 2015\projects\6-3\6-3\소스.cpp(236): warning C4101: 'hButton' :참조되지 않은 지역 변수입니다.
+  6-3.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\6-3\Debug\6-3.exe
+  6-3.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\6-3\Debug\6-3.pdb (Full PDB)
